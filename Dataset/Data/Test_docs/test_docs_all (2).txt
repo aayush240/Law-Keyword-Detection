@@ -1,0 +1,1 @@
+copy *.txt test_docs_all.txt
